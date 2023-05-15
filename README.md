@@ -1,4 +1,4 @@
-# CloudExplorer-Lite-Template-Shell
+# CloudExplorer-Lite-Module-Shell
 > 注意：需要具有模块上传权限！！！
 > 项目仅用于学习研究，请勿非法利用
 ## 使用步骤
